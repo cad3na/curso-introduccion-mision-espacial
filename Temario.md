@@ -1,96 +1,81 @@
 Introducción
-1    Conceptos básicos
-1.1	Qué es el espacio?
-Definición de espacio
-Dónde se encuentra el espacio
-Descripción del ambiente espacial
+1. Conceptos básicos
+	1. Qué es el espacio?
+		1. Definición de espacio
+		2. Dónde se encuentra el espacio
+		3. Descripción del ambiente espacial
+	2. Qué son los sistemas espaciales?
+		1. Definición
+		2. Que es un sistema
+		3. Elementos que intervienen
 
-1.2	Qué son los sistemas espaciales?
-Definición
-Que es un sistema
-Elementos que intervienen
+2. Aplicaciones actuales
+	1. Lanzadores
+		1. Definición
+		2. Tipo de lanzadores
+		3. Partes generales de un lanzador
+		4. Usos y aplicaciones de los lanzadores
+	2. Payloads espaciales
+		1. Definición de payload
+		2. Tipos de payloads a lanzar
+		3. Usos y aplicaciones
+	3. Satélites
+		1. Definición de satélite
+		2. Tipos de satélites
+		3. Elementos
+		4. Usos y aplicaciones
 
-2	Aplicaciones actuales
-2.1 Lanzadores
-       Definición
-	Tipo de lanzadores
-	Partes generales de un lanzador
-	Usos y aplicaciones de los lanzadores
+3. Mecánica orbital
+	1. Definición de dinámica orbital
+		1. Marcos de referencia
+		2. Movimientos de la tierra
+		3. Eclíptica
+		4. Fuerzas
+	2. Definición de Leyes de Kepler
+		1. Usos y aplicaciones
+	3. Definición de órbita
+		1. Tipos de órbitas
+		2. Elementos orbitales
+		3. Usos y aplicaciones de las órbitas
+	4. Como llegar al espacio
+		1. Física involucrada en los lanzadores
+		2. Órbitas de transferencia
+		3. Maniobras de transferencia
 
-2.2 Payloads espaciales
-	Definición de payload
-Tipos de payloads a lanzar
-Usos y aplicaciones
+4. Logística de una misión espacial
+	1. Identificación de las necesidades a cubrir
+		1. Servicios que se requieren con la misión
+		2. Coordinación de frecuencias
+		3. Selección de Payload
+		4. Selección de lanzador
+		5. Diseño de Bus 
+	2. Definición de segmento terrestre
+		1. Descripción de la cadena de RF
+		2. Antena
+	3. Introducción a comunicaciones
+		1. Bandas de frecuencia
+		2. Usos y aplicaciones de las bandas
 
-2.3 Satélites
-	Definición de satélite
-	Tipos de satélites
-	Elementos
-	Usos y aplicaciones
+5. Anatomía de un sistema espacial
+	1. Definición de instrumentación
+		1. Definición de sensor
+		2. Sensores usados en los sistemas espaciales
+	2. Conceptos básicos de energía eléctrica
+		1. Generación, almacenamiento, acondicionamiento y distribución
+		2. Usos y aplicaciones
+	3. Definición de Subsistemas
+		1. Eléctrico
+		2. Orientación
+		3. Manejo de datos
+		4. Telemetría comando y rango
+		5. Computadora de vuelo
+		6. Térmico
+		7. Propulsión
+	4. Interacción de los susbsistemas
+		1. Explicación de la interacción de subsistemas
 
-3	Mecánica orbital
-
-3.1 Definición de dinámica orbital
- 	Marcos de referencia
-	Movimientos de la tierra
-	Eclíptica
-Fuerzas
-
-3.2 Definición de Leyes de Kepler
-	Usos y aplicaciones
-
-
-
-3.3 Definición de órbita
-	Tipos de órbitas
-	Elementos orbitales
-	Usos y aplicaciones de las órbitas
-
-3.4 Como llegar al espacio
-	Física involucrada en los lanzadores
-	Órbitas de transferencia
-	Maniobras de transferencia
-	
-4	Logística de una misión espacial
-
-4.1 Identificación de las necesidades a cubrir
-	Servicios que se requieren con la misión
-	Coordinación de frecuencias
-	Selección de Payload
-	Selección de lanzador
-	Diseño de Bus 
-
-4.2 Definición de segmento terrestre
-	Descripción de la cadena de RF
-	Antena   	
-        4.3 Introducción a comunicaciones
-	Bandas de frecuencia
-	Usos y aplicaciones de las bandas
-
-5	Anatomía de un Sistema espacial
-
-5.1 Definición de instrumentación
-	Definición de sensor
-	Sensores usados en los sistemas espaciales
-
-5.2 Conceptos básicos de energía eléctrica
-	Generación, Almacenamiento, Transmisión y acondicionamiento
-	Usos y aplicaciones
-
-5.3 Definición de Subsistemas
-	Eléctrico
-	Orientación
-	Manejo de datos
-	Telemetría comando y rango
-	Computadora de vuelo
-	Térmico
-	Propulsión
-        5.4 Interacción de Susbsistemas
-	Explicación de la interacción de subsistemas
-
-6	Anatomía de sistemas terrestres
-
-6.1 Definición de Monitoreo y Control
+6. Anatomía de sistemas terrestres
+	1. Definición de Monitoreo y Control
 	Descripción general de las tareas de monitoreo y control
 	TLM trending
 	Alarmas
