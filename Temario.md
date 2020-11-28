@@ -76,27 +76,24 @@ Introducción
 
 6. Anatomía de sistemas terrestres
 	1. Definición de Monitoreo y Control
-	Descripción general de las tareas de monitoreo y control
-	TLM trending
-	Alarmas
-	Monitoreo de Sistemas terrestres 
-	Ejecución de Procs
-	Monitoreo de tareas indispensables
-
-6.2 Medición de la distancia
-	Para que es necesario?
-	Como se lleva a acabo?
-	Rango, Acimut, Elevación
-
-6.3 Recepción TLM
-	Definición 
-	Decodificación 
-	Almacenamiento
-	Visualización
-
-6.4 Definición CMD
-	Estructura de CMD
-	Modo de envío
-	Ejemplos 
+		1. Descripción general de las tareas de monitoreo y control
+		2. TLM trending
+		3. Alarmas
+		4. Monitoreo de Sistemas terrestres 
+		5. Ejecución de Procs
+		6. Monitoreo de tareas indispensables
+	2. Medición de la distancia
+		1. Para que es necesario?
+		2. Como se lleva a acabo?
+		3. Rango, Acimut, Elevación
+	3. Recepción TLM
+		1. Definición 
+		2. Decodificación 
+		3. Almacenamiento
+		4. Visualización
+	4. Definición CMD
+		1. Estructura de CMD
+		2. Modo de envío
+		3. Ejemplos 
 	
 
