@@ -1,5 +1,5 @@
 Introducción
-1. Conceptos básicos
+1. [[Conceptos Básicos]]
 	1. Qué es el espacio?
 		1. Definición de espacio
 		2. Dónde se encuentra el espacio
@@ -9,7 +9,7 @@ Introducción
 		2. Que es un sistema
 		3. Elementos que intervienen
 
-2. Aplicaciones actuales
+2. [[Aplicaciones actuales]]
 	1. Lanzadores
 		1. Definición
 		2. Tipo de lanzadores
@@ -42,7 +42,7 @@ Introducción
 		2. Órbitas de transferencia
 		3. Maniobras de transferencia
 
-4. Logística de una misión espacial
+4. [[Logística de una misión espacial]]
 	1. Identificación de las necesidades a cubrir
 		1. Servicios que se requieren con la misión
 		2. Coordinación de frecuencias
@@ -56,7 +56,7 @@ Introducción
 		1. Bandas de frecuencia
 		2. Usos y aplicaciones de las bandas
 
-5. Anatomía de un sistema espacial
+5. [[Anatomía del segmento espacial]]
 	1. Definición de instrumentación
 		1. Definición de sensor
 		2. Sensores usados en los sistemas espaciales
@@ -74,7 +74,7 @@ Introducción
 	4. Interacción de los susbsistemas
 		1. Explicación de la interacción de subsistemas
 
-6. Anatomía de sistemas terrestres
+6. [[Anatomía de sistemas terrestres]]
 	1. Definición de Monitoreo y Control
 		1. Descripción general de las tareas de monitoreo y control
 		2. TLM trending
